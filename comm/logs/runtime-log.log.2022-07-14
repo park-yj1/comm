@@ -1,0 +1,383 @@
+2022-07-14 21:15:14 [INFO] 초기화 필터 생성
+2022-07-14 21:15:23 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-14 21:15:26 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@58f62266, edu.kh.comm.board.model.vo.BoardType@1678faae, edu.kh.comm.board.model.vo.BoardType@45dd61ba]
+2022-07-14 21:15:26 [INFO] RunningTime : 3101ms
+2022-07-14 21:15:26 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-14 21:15:27 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-14 21:15:27 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-14 21:15:27 [INFO] RunningTime : 40ms
+2022-07-14 21:15:27 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-14 21:15:37 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-14 21:15:37 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-14 21:15:37 [INFO] RunningTime : 7ms
+2022-07-14 21:15:37 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-14 21:15:44 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectOne
+매개변수 : [user01@naver.com]
+ip :127.0.0.1
+2022-07-14 21:15:44 [INFO] Return Value :null
+2022-07-14 21:15:44 [INFO] RunningTime : 12ms
+2022-07-14 21:15:44 [INFO] end :MemberServiceImpl - selectOne
+--------------------------------------------------------------------------------
+
+2022-07-14 21:15:47 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-14 21:15:47 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-14 21:15:47 [INFO] RunningTime : 8ms
+2022-07-14 21:15:47 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-14 21:15:57 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-14 21:15:57 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-14 21:15:57 [INFO] RunningTime : 8ms
+2022-07-14 21:15:57 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-14 21:16:06 [INFO] 로그인 기능 수행됨
+2022-07-14 21:16:06 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=user01@naver.com, memberPw=pass001!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-14 21:16:06 [DEBUG] pass001!/$2a$10$veNNzkKzUlL9HDeFJaxXWOvCWJVJHyoKkVrN4kB14cd0zv7.Vg91O
+2022-07-14 21:16:06 [DEBUG] 
+2022-07-14 21:16:06 [INFO] Return Value :null
+2022-07-14 21:16:06 [INFO] RunningTime : 182ms
+2022-07-14 21:16:06 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-14 21:16:09 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-14 21:16:09 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-14 21:16:09 [INFO] RunningTime : 13ms
+2022-07-14 21:16:09 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-14 21:16:15 [INFO] 로그인 기능 수행됨
+2022-07-14 21:16:15 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=user01@naver.com, memberPw=pass01!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-14 21:16:15 [DEBUG] pass01!/$2a$10$jDkjAG8TS43SqxICjygsu.MJ0Ei5lWw9h0ayEHhOLX7zd6iPH6Rya
+2022-07-14 21:16:16 [DEBUG] 
+2022-07-14 21:16:16 [INFO] Return Value :null
+2022-07-14 21:16:16 [INFO] RunningTime : 98ms
+2022-07-14 21:16:16 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-14 21:16:17 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-14 21:16:17 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-14 21:16:17 [INFO] RunningTime : 16ms
+2022-07-14 21:16:17 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-14 21:16:27 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-14 21:16:27 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-14 21:16:27 [INFO] RunningTime : 8ms
+2022-07-14 21:16:27 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-14 21:16:37 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-14 21:16:37 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-14 21:16:37 [INFO] RunningTime : 8ms
+2022-07-14 21:16:37 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-14 21:16:44 [INFO] 로그인 기능 수행됨
+2022-07-14 21:16:44 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=user02@naver.com, memberPw=pass01!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-14 21:16:44 [DEBUG] pass01!/$2a$10$3hgES15WlpsWHBV0NfXbquMRPPsFpyg.3VsDxqTypaKXDBcFa1Qwu
+2022-07-14 21:16:44 [DEBUG] 
+2022-07-14 21:16:44 [INFO] Return Value :null
+2022-07-14 21:16:44 [INFO] RunningTime : 97ms
+2022-07-14 21:16:44 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-14 21:16:45 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-14 21:16:45 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-14 21:16:45 [INFO] RunningTime : 11ms
+2022-07-14 21:16:45 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:01 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.o]
+ip :127.0.0.1
+2022-07-14 21:17:01 [INFO] Return Value :0
+2022-07-14 21:17:01 [INFO] RunningTime : 10ms
+2022-07-14 21:17:01 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:02 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.om]
+ip :127.0.0.1
+2022-07-14 21:17:02 [INFO] Return Value :0
+2022-07-14 21:17:02 [INFO] RunningTime : 12ms
+2022-07-14 21:17:02 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:03 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.o]
+ip :127.0.0.1
+2022-07-14 21:17:03 [INFO] Return Value :0
+2022-07-14 21:17:03 [INFO] RunningTime : 11ms
+2022-07-14 21:17:03 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:03 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.x]
+ip :127.0.0.1
+2022-07-14 21:17:03 [INFO] Return Value :0
+2022-07-14 21:17:03 [INFO] RunningTime : 11ms
+2022-07-14 21:17:03 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:03 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.xo]
+ip :127.0.0.1
+2022-07-14 21:17:03 [INFO] Return Value :0
+2022-07-14 21:17:03 [INFO] RunningTime : 20ms
+2022-07-14 21:17:03 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:04 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.x]
+ip :127.0.0.1
+2022-07-14 21:17:04 [INFO] Return Value :0
+2022-07-14 21:17:04 [INFO] RunningTime : 8ms
+2022-07-14 21:17:04 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:04 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.x]
+ip :127.0.0.1
+2022-07-14 21:17:04 [INFO] Return Value :0
+2022-07-14 21:17:04 [INFO] RunningTime : 7ms
+2022-07-14 21:17:04 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:04 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.xo]
+ip :127.0.0.1
+2022-07-14 21:17:04 [INFO] Return Value :0
+2022-07-14 21:17:04 [INFO] RunningTime : 7ms
+2022-07-14 21:17:04 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:05 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.xom]
+ip :127.0.0.1
+2022-07-14 21:17:05 [INFO] Return Value :0
+2022-07-14 21:17:05 [INFO] RunningTime : 7ms
+2022-07-14 21:17:05 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:08 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.xo]
+ip :127.0.0.1
+2022-07-14 21:17:08 [INFO] Return Value :0
+2022-07-14 21:17:08 [INFO] RunningTime : 7ms
+2022-07-14 21:17:08 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:09 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.x]
+ip :127.0.0.1
+2022-07-14 21:17:09 [INFO] Return Value :0
+2022-07-14 21:17:09 [INFO] RunningTime : 6ms
+2022-07-14 21:17:09 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:10 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.c]
+ip :127.0.0.1
+2022-07-14 21:17:10 [INFO] Return Value :0
+2022-07-14 21:17:10 [INFO] RunningTime : 9ms
+2022-07-14 21:17:10 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:10 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.co]
+ip :127.0.0.1
+2022-07-14 21:17:10 [INFO] Return Value :0
+2022-07-14 21:17:10 [INFO] RunningTime : 6ms
+2022-07-14 21:17:10 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:10 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - emailDupCheck
+매개변수 : [user01@naver.com]
+ip :127.0.0.1
+2022-07-14 21:17:10 [INFO] Return Value :0
+2022-07-14 21:17:10 [INFO] RunningTime : 0ms
+2022-07-14 21:17:10 [INFO] end :MemberServiceImpl - emailDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:31 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - nicknameDupCheck
+매개변수 : [wl]
+ip :127.0.0.1
+2022-07-14 21:17:31 [INFO] Return Value :0
+2022-07-14 21:17:31 [INFO] RunningTime : 9ms
+2022-07-14 21:17:31 [INFO] end :MemberServiceImpl - nicknameDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:31 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - nicknameDupCheck
+매개변수 : [wls]
+ip :127.0.0.1
+2022-07-14 21:17:31 [INFO] Return Value :0
+2022-07-14 21:17:31 [INFO] RunningTime : 9ms
+2022-07-14 21:17:31 [INFO] end :MemberServiceImpl - nicknameDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:31 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - nicknameDupCheck
+매개변수 : [wlsd]
+ip :127.0.0.1
+2022-07-14 21:17:31 [INFO] Return Value :0
+2022-07-14 21:17:31 [INFO] RunningTime : 8ms
+2022-07-14 21:17:31 [INFO] end :MemberServiceImpl - nicknameDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:31 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - nicknameDupCheck
+매개변수 : [wls]
+ip :127.0.0.1
+2022-07-14 21:17:31 [INFO] Return Value :0
+2022-07-14 21:17:31 [INFO] RunningTime : 10ms
+2022-07-14 21:17:31 [INFO] end :MemberServiceImpl - nicknameDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:31 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - nicknameDupCheck
+매개변수 : [wl]
+ip :127.0.0.1
+2022-07-14 21:17:31 [INFO] Return Value :0
+2022-07-14 21:17:31 [INFO] RunningTime : 6ms
+2022-07-14 21:17:31 [INFO] end :MemberServiceImpl - nicknameDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:33 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - nicknameDupCheck
+매개변수 : [진예]
+ip :127.0.0.1
+2022-07-14 21:17:33 [INFO] Return Value :0
+2022-07-14 21:17:33 [INFO] RunningTime : 8ms
+2022-07-14 21:17:33 [INFO] end :MemberServiceImpl - nicknameDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:34 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - nicknameDupCheck
+매개변수 : [진옙]
+ip :127.0.0.1
+2022-07-14 21:17:34 [INFO] Return Value :0
+2022-07-14 21:17:34 [INFO] RunningTime : 8ms
+2022-07-14 21:17:34 [INFO] end :MemberServiceImpl - nicknameDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:34 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - nicknameDupCheck
+매개변수 : [진예바]
+ip :127.0.0.1
+2022-07-14 21:17:34 [INFO] Return Value :0
+2022-07-14 21:17:34 [INFO] RunningTime : 8ms
+2022-07-14 21:17:34 [INFO] end :MemberServiceImpl - nicknameDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:34 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - nicknameDupCheck
+매개변수 : [진예]
+ip :127.0.0.1
+2022-07-14 21:17:34 [INFO] Return Value :0
+2022-07-14 21:17:34 [INFO] RunningTime : 8ms
+2022-07-14 21:17:34 [INFO] end :MemberServiceImpl - nicknameDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:34 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - nicknameDupCheck
+매개변수 : [진예박]
+ip :127.0.0.1
+2022-07-14 21:17:34 [INFO] Return Value :0
+2022-07-14 21:17:34 [INFO] RunningTime : 6ms
+2022-07-14 21:17:34 [INFO] end :MemberServiceImpl - nicknameDupCheck
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:58 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - signUp
+매개변수 : [Member(memberNo=0, memberEmail=user01@naver.com, memberPw=pass01!, memberNickname=진예박, memberTel=01011112222, memberAddress=13473,,경기 성남시 분당구 경부고속도로 409,,123, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-14 21:17:58 [INFO] Return Value :1
+2022-07-14 21:17:58 [INFO] RunningTime : 124ms
+2022-07-14 21:17:58 [INFO] end :MemberServiceImpl - signUp
+--------------------------------------------------------------------------------
+
+2022-07-14 21:17:59 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-14 21:17:59 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=4, memberEmail=user01@naver.com, memberPw=null, memberNickname=진예박, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-14 21:17:59 [INFO] RunningTime : 15ms
+2022-07-14 21:17:59 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-14 21:18:06 [INFO] 로그인 기능 수행됨
+2022-07-14 21:18:06 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=user01@naver.com, memberPw=pass01!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-14 21:18:06 [DEBUG] pass01!/$2a$10$EZ0lDlNcSyO8txBX3.i3WuYdCGWRNEe1ivkGfAVH7xgu80dN15ghu
+2022-07-14 21:18:06 [DEBUG] 
+2022-07-14 21:18:06 [INFO] Return Value :Member(memberNo=4, memberEmail=user01@naver.com, memberPw=null, memberNickname=진예박, memberTel=01011112222, memberAddress=13473,,경기 성남시 분당구 경부고속도로 409,,123, profileImage=null, enrollDate=2022-07-14 21:17:45, secessionFlag=null)
+2022-07-14 21:18:06 [INFO] RunningTime : 193ms
+2022-07-14 21:18:06 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-14 21:25:47 [INFO] 초기화 필터 파괴

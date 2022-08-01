@@ -1,0 +1,1387 @@
+2022-07-07 09:43:53 [INFO] 초기화 필터 생성
+2022-07-07 09:44:00 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 09:44:02 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@8f86de, edu.kh.comm.board.model.vo.BoardType@20114cfe, edu.kh.comm.board.model.vo.BoardType@4bb33f3b]
+2022-07-07 09:44:02 [INFO] RunningTime : 2528ms
+2022-07-07 09:44:02 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-07 09:44:03 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 09:44:03 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 09:44:03 [INFO] RunningTime : 15ms
+2022-07-07 09:44:03 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 10:12:03 [INFO] 초기화 필터 생성
+2022-07-07 10:12:09 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 10:12:11 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@6f273c2d, edu.kh.comm.board.model.vo.BoardType@7b980821, edu.kh.comm.board.model.vo.BoardType@55be512d]
+2022-07-07 10:12:11 [INFO] RunningTime : 2252ms
+2022-07-07 10:12:11 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-07 10:14:38 [INFO] 초기화 필터 생성
+2022-07-07 10:14:44 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 10:14:46 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@2ae27ae1, edu.kh.comm.board.model.vo.BoardType@51a2a9b5, edu.kh.comm.board.model.vo.BoardType@2c364c8a]
+2022-07-07 10:14:46 [INFO] RunningTime : 2316ms
+2022-07-07 10:14:46 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-07 10:16:34 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 10:16:34 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 10:16:34 [INFO] RunningTime : 14ms
+2022-07-07 10:16:34 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 10:16:39 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 10:16:39 [INFO] Return Value :[]
+2022-07-07 10:16:39 [INFO] RunningTime : 12ms
+2022-07-07 10:16:39 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 10:30:00 [INFO] 초기화 필터 생성
+2022-07-07 10:30:09 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 10:30:12 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@3e8b80ec, edu.kh.comm.board.model.vo.BoardType@5206a3ea, edu.kh.comm.board.model.vo.BoardType@46e0b339]
+2022-07-07 10:30:12 [INFO] RunningTime : 2604ms
+2022-07-07 10:30:12 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-07 10:30:12 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 10:30:12 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 10:30:12 [INFO] RunningTime : 12ms
+2022-07-07 10:30:12 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 10:30:22 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 10:30:22 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 10:30:22 [INFO] RunningTime : 9ms
+2022-07-07 10:30:22 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 10:30:25 [INFO] 로그인 기능 수행됨
+2022-07-07 10:30:25 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=test01@naver.com, memberPw=pass01!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 10:30:26 [DEBUG] pass01!/$2a$10$vQQ4jIR2G5jPSSo5udQ3g.MF2Fs.SsyMCAJurI2P43Im56tKfiT9a
+2022-07-07 10:30:26 [DEBUG] 
+2022-07-07 10:30:26 [INFO] Return Value :null
+2022-07-07 10:30:26 [INFO] RunningTime : 217ms
+2022-07-07 10:30:26 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 10:30:27 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 10:30:27 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 10:30:27 [INFO] RunningTime : 21ms
+2022-07-07 10:30:27 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 10:30:32 [INFO] 로그인 기능 수행됨
+2022-07-07 10:30:32 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=test01@naver.com, memberPw=pass001!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 10:30:32 [DEBUG] pass001!/$2a$10$ZScK7oRVTw2CZaQRyo7cP.CTXF.5t.KBy2.YQkldTqRg5Haz2e3va
+2022-07-07 10:30:32 [DEBUG] 
+2022-07-07 10:30:32 [INFO] Return Value :Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=01011112222, memberAddress=63043,,제주특별자치도 제주시 애월읍 애월로 10,,1층, profileImage=/resources/images/memberProfile/20220706103224_75441.jpg, enrollDate=2022-06-22 14:41:50, secessionFlag=null)
+2022-07-07 10:30:32 [INFO] RunningTime : 173ms
+2022-07-07 10:30:32 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 10:30:33 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 10:30:33 [INFO] Return Value :[]
+2022-07-07 10:30:33 [INFO] RunningTime : 14ms
+2022-07-07 10:30:33 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 10:30:53 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 10:30:53 [INFO] Return Value :[]
+2022-07-07 10:30:53 [INFO] RunningTime : 17ms
+2022-07-07 10:30:53 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 10:47:28 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 10:47:28 [INFO] Return Value :[]
+2022-07-07 10:47:28 [INFO] RunningTime : 8ms
+2022-07-07 10:47:28 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 10:47:33 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 10:47:33 [INFO] Return Value :[]
+2022-07-07 10:47:33 [INFO] RunningTime : 12ms
+2022-07-07 10:47:33 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 10:47:42 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - openChatRoom
+매개변수 : [ChatRoom(chatRoomNo=0, title=하나, status=null, memberNo=1, memberNickname=null, cnt=0)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 10:47:42 [INFO] Return Value :1
+2022-07-07 10:47:42 [INFO] RunningTime : 33ms
+2022-07-07 10:47:42 [INFO] end :ChatServiceImpl - openChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 10:47:42 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 10:47:42 [INFO] Return Value :[]
+2022-07-07 10:47:42 [INFO] RunningTime : 28ms
+2022-07-07 10:47:42 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 10:48:13 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 10:48:13 [INFO] Return Value :[]
+2022-07-07 10:48:13 [INFO] RunningTime : 30ms
+2022-07-07 10:48:13 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 10:48:35 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 10:48:35 [INFO] Return Value :[]
+2022-07-07 10:48:35 [INFO] RunningTime : 16ms
+2022-07-07 10:48:35 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 10:59:59 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectDBList
+매개변수 : []
+[스케줄러 동작]
+2022-07-07 11:00:00 [INFO] Return Value :[/resources/images/board/sample1.jpg, /resources/images/board/sample2.jpg, /resources/images/board/sample3.jpg, /resources/images/board/sample4.jpg, /resources/images/board/sample5.jpg, /resources/images/board/20220602144448_22251.jpg, /resources/images/board/20220602144448_33457.jpg, /resources/images/board/20220602144448_34656.jpg, /resources/images/board/20220602144448_52562.jpg, /resources/images/board/20220602144448_83061.jpg, /resources/images/board/20220602145056_18485.jpg, /resources/images/board/20220602145056_24008.jpg, /resources/images/board/20220602145056_29514.jpg, /resources/images/board/20220602145056_64912.jpg, /resources/images/board/20220602145056_42498.jpg, /resources/images/board/sample1.jpg, /resources/images/board/20220602151528_90399.jpg, /resources/images/board/20220602151528_20767.jpg, /resources/images/board/20220602151528_33543.jpg, /resources/images/board/20220607160928_01543.jpg, /resources/images/board/20220607160939_04383.jpg, /resources/images/board/sample2.jpg, /resources/images/board/sample3.jpg, /resources/images/board/sample4.jpg, /resources/images/board/sample5.jpg, /resources/images/board/20220630150652_04054.jfif, /resources/images/board/20220630150652_02519.jfif, /resources/images/board/20220630150652_11339.jfif, /resources/images/board/20220701115222_27902.jfif, /resources/images/board/20220701120141_23568.jfif]
+2022-07-07 11:00:00 [INFO] RunningTime : 36ms
+2022-07-07 11:00:00 [INFO] end :BoardServiceImpl - selectDBList
+--------------------------------------------------------------------------------
+
+2022-07-07 11:00:00 [INFO] --------서버 이미지 삭제완료--------
+2022-07-07 11:37:46 [INFO] 초기화 필터 생성
+2022-07-07 11:37:52 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 11:37:54 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@635a56b1, edu.kh.comm.board.model.vo.BoardType@176c70c5, edu.kh.comm.board.model.vo.BoardType@3ac7e05d]
+2022-07-07 11:37:54 [INFO] RunningTime : 2517ms
+2022-07-07 11:37:54 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-07 11:37:55 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 11:37:55 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 11:37:55 [INFO] RunningTime : 14ms
+2022-07-07 11:37:55 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 11:37:58 [INFO] 로그인 기능 수행됨
+2022-07-07 11:37:58 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=test01@naver.com, memberPw=pass001!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 11:37:58 [DEBUG] pass001!/$2a$10$WuORAT8tFj6BTaSQAdyMVeNhXOQM3ghfpcJ1JOgUc8Drw5FxtcoZm
+2022-07-07 11:37:58 [DEBUG] 
+2022-07-07 11:37:59 [INFO] Return Value :Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=01011112222, memberAddress=63043,,제주특별자치도 제주시 애월읍 애월로 10,,1층, profileImage=/resources/images/memberProfile/20220706103224_75441.jpg, enrollDate=2022-06-22 14:41:50, secessionFlag=null)
+2022-07-07 11:37:59 [INFO] RunningTime : 220ms
+2022-07-07 11:37:59 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 11:38:00 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 11:38:00 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=1)]
+2022-07-07 11:38:00 [INFO] RunningTime : 14ms
+2022-07-07 11:38:00 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 11:38:03 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 11:38:03 [INFO] Return Value :[]
+2022-07-07 11:38:03 [INFO] RunningTime : 32ms
+2022-07-07 11:38:03 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 11:42:59 [INFO] 초기화 필터 파괴
+2022-07-07 11:43:05 [INFO] 초기화 필터 생성
+2022-07-07 11:44:30 [INFO] 초기화 필터 파괴
+2022-07-07 11:44:35 [INFO] 초기화 필터 생성
+2022-07-07 11:46:27 [INFO] 초기화 필터 파괴
+2022-07-07 11:46:32 [INFO] 초기화 필터 생성
+2022-07-07 11:48:23 [INFO] 초기화 필터 파괴
+2022-07-07 11:48:28 [INFO] 초기화 필터 생성
+2022-07-07 11:49:25 [INFO] 초기화 필터 파괴
+2022-07-07 11:49:31 [INFO] 초기화 필터 생성
+2022-07-07 12:00:00 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectDBList
+매개변수 : []
+[스케줄러 동작]
+2022-07-07 12:00:01 [INFO] Return Value :[/resources/images/board/sample1.jpg, /resources/images/board/sample2.jpg, /resources/images/board/sample3.jpg, /resources/images/board/sample4.jpg, /resources/images/board/sample5.jpg, /resources/images/board/20220602144448_22251.jpg, /resources/images/board/20220602144448_33457.jpg, /resources/images/board/20220602144448_34656.jpg, /resources/images/board/20220602144448_52562.jpg, /resources/images/board/20220602144448_83061.jpg, /resources/images/board/20220602145056_18485.jpg, /resources/images/board/20220602145056_24008.jpg, /resources/images/board/20220602145056_29514.jpg, /resources/images/board/20220602145056_64912.jpg, /resources/images/board/20220602145056_42498.jpg, /resources/images/board/sample1.jpg, /resources/images/board/20220602151528_90399.jpg, /resources/images/board/20220602151528_20767.jpg, /resources/images/board/20220602151528_33543.jpg, /resources/images/board/20220607160928_01543.jpg, /resources/images/board/20220607160939_04383.jpg, /resources/images/board/sample2.jpg, /resources/images/board/sample3.jpg, /resources/images/board/sample4.jpg, /resources/images/board/sample5.jpg, /resources/images/board/20220630150652_04054.jfif, /resources/images/board/20220630150652_02519.jfif, /resources/images/board/20220630150652_11339.jfif, /resources/images/board/20220701115222_27902.jfif, /resources/images/board/20220701120141_23568.jfif]
+2022-07-07 12:00:01 [INFO] RunningTime : 1452ms
+2022-07-07 12:00:01 [INFO] end :BoardServiceImpl - selectDBList
+--------------------------------------------------------------------------------
+
+2022-07-07 12:00:01 [INFO] --------서버 이미지 삭제완료--------
+2022-07-07 12:02:16 [INFO] 초기화 필터 파괴
+2022-07-07 12:12:39 [INFO] 초기화 필터 생성
+2022-07-07 12:12:44 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 12:12:49 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@6039cc11, edu.kh.comm.board.model.vo.BoardType@51040c8b, edu.kh.comm.board.model.vo.BoardType@3d317c53]
+2022-07-07 12:12:49 [INFO] RunningTime : 4328ms
+2022-07-07 12:12:49 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-07 12:12:49 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 12:12:50 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 12:12:50 [INFO] RunningTime : 16ms
+2022-07-07 12:12:50 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 12:12:56 [INFO] 로그인 기능 수행됨
+2022-07-07 12:12:56 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=test01@naver.com, memberPw=pass001!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 12:12:56 [DEBUG] pass001!/$2a$10$rDIkWBcN74hA.mTp0.yiXuHZc/o1QsRd8Rr9MzE/UNd0YhCwTbG9O
+2022-07-07 12:12:56 [DEBUG] 
+2022-07-07 12:12:56 [INFO] Return Value :Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=01011112222, memberAddress=63043,,제주특별자치도 제주시 애월읍 애월로 10,,1층, profileImage=/resources/images/memberProfile/20220706103224_75441.jpg, enrollDate=2022-06-22 14:41:50, secessionFlag=null)
+2022-07-07 12:12:56 [INFO] RunningTime : 275ms
+2022-07-07 12:12:56 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 12:12:57 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 12:12:57 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=1)]
+2022-07-07 12:12:57 [INFO] RunningTime : 15ms
+2022-07-07 12:12:57 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 12:12:59 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 12:12:59 [INFO] Return Value :[]
+2022-07-07 12:12:59 [INFO] RunningTime : 31ms
+2022-07-07 12:12:59 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 12:14:05 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 12:14:05 [INFO] Return Value :[]
+2022-07-07 12:14:05 [INFO] RunningTime : 17ms
+2022-07-07 12:14:05 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 12:14:08 [INFO] 초기화 필터 파괴
+2022-07-07 12:14:15 [INFO] 초기화 필터 생성
+2022-07-07 12:15:00 [INFO] 초기화 필터 파괴
+2022-07-07 12:15:09 [INFO] 초기화 필터 생성
+2022-07-07 12:15:15 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 12:15:17 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@74665b67, edu.kh.comm.board.model.vo.BoardType@17aaa944, edu.kh.comm.board.model.vo.BoardType@3642ffad]
+2022-07-07 12:15:17 [INFO] RunningTime : 1785ms
+2022-07-07 12:15:17 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-07 12:15:19 [INFO] 초기화 필터 파괴
+2022-07-07 12:15:29 [INFO] 초기화 필터 생성
+2022-07-07 12:15:37 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 12:15:41 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@79b9f420, edu.kh.comm.board.model.vo.BoardType@2c59c26c, edu.kh.comm.board.model.vo.BoardType@6576debb]
+2022-07-07 12:15:41 [INFO] RunningTime : 4134ms
+2022-07-07 12:15:41 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-07 12:15:42 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 12:15:42 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 12:15:42 [INFO] RunningTime : 13ms
+2022-07-07 12:15:42 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 12:15:45 [INFO] 로그인 기능 수행됨
+2022-07-07 12:15:45 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=test01@naver.com, memberPw=pass001!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 12:15:45 [DEBUG] pass001!/$2a$10$p7CDIoSj5MZlGB4D3CrCf.R7H.iWAurSyHE3zj417YtDBskReOIG.
+2022-07-07 12:15:46 [DEBUG] 
+2022-07-07 12:15:46 [INFO] Return Value :Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=01011112222, memberAddress=63043,,제주특별자치도 제주시 애월읍 애월로 10,,1층, profileImage=/resources/images/memberProfile/20220706103224_75441.jpg, enrollDate=2022-06-22 14:41:50, secessionFlag=null)
+2022-07-07 12:15:46 [INFO] RunningTime : 233ms
+2022-07-07 12:15:46 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 12:15:47 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 12:15:47 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=1)]
+2022-07-07 12:15:47 [INFO] RunningTime : 17ms
+2022-07-07 12:15:47 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 12:15:48 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 12:15:48 [INFO] Return Value :[]
+2022-07-07 12:15:48 [INFO] RunningTime : 32ms
+2022-07-07 12:15:48 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 12:41:41 [INFO] 초기화 필터 생성
+2022-07-07 12:41:50 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 12:41:52 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@514482fc, edu.kh.comm.board.model.vo.BoardType@75f9c04b, edu.kh.comm.board.model.vo.BoardType@6fdf9c5b]
+2022-07-07 12:41:52 [INFO] RunningTime : 2266ms
+2022-07-07 12:41:52 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-07 12:41:53 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 12:41:53 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 12:41:53 [INFO] RunningTime : 19ms
+2022-07-07 12:41:53 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 12:42:03 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 12:42:03 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 12:42:03 [INFO] RunningTime : 8ms
+2022-07-07 12:42:03 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 12:42:06 [INFO] 로그인 기능 수행됨
+2022-07-07 12:42:06 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=test01@naver.com, memberPw=pass001!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 12:42:07 [DEBUG] pass001!/$2a$10$Vo4Xl1vl5kVUIkK.RCp2gOEtJJLIWBWBeoiHAaZGN4qflfXuuIU8O
+2022-07-07 12:42:07 [DEBUG] 
+2022-07-07 12:42:07 [INFO] Return Value :Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=01011112222, memberAddress=63043,,제주특별자치도 제주시 애월읍 애월로 10,,1층, profileImage=/resources/images/memberProfile/20220706103224_75441.jpg, enrollDate=2022-06-22 14:41:50, secessionFlag=null)
+2022-07-07 12:42:07 [INFO] RunningTime : 266ms
+2022-07-07 12:42:07 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 12:45:16 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 12:45:16 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 12:45:16 [INFO] RunningTime : 15ms
+2022-07-07 12:45:16 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 12:45:26 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 12:45:26 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 12:45:26 [INFO] RunningTime : 8ms
+2022-07-07 12:45:26 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 12:45:33 [INFO] 로그인 기능 수행됨
+2022-07-07 12:45:33 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=user01@kh.or.kr, memberPw=pass01!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 12:45:33 [DEBUG] pass01!/$2a$10$kas8d5JZSJcR87bR7tLtzeQqXrnz6iYflE8W87tNn20dtvI1rCbte
+2022-07-07 12:45:33 [DEBUG] zz
+2022-07-07 12:45:33 [INFO] Return Value :Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=01012341234, memberAddress=03060,,서울 종로구 북촌로1길 9,,2층입니당, profileImage=null, enrollDate=2022-07-04 11:24:02, secessionFlag=null)
+2022-07-07 12:45:33 [INFO] RunningTime : 175ms
+2022-07-07 12:45:33 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 12:45:43 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 12:45:43 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=1)]
+2022-07-07 12:45:43 [INFO] RunningTime : 15ms
+2022-07-07 12:45:43 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 12:45:44 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 12:45:44 [INFO] Return Value :[]
+2022-07-07 12:45:44 [INFO] RunningTime : 54ms
+2022-07-07 12:45:44 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 12:46:21 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=안될까요왜, createDate=null, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 12:46:21 [INFO] Return Value :1
+2022-07-07 12:46:21 [INFO] RunningTime : 10ms
+2022-07-07 12:46:21 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 12:47:48 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardList
+매개변수 : [1, 1]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 12:47:48 [INFO] Return Value :{pagination=Pagination [currentPage=1, listCount=504, limit=10, pageSize=10, maxPage=51, startPage=1, endPage=10, prevPage=1, nextPage=11], boardList=[edu.kh.comm.board.model.vo.Board@2036b2f3, edu.kh.comm.board.model.vo.Board@785269a0, edu.kh.comm.board.model.vo.Board@65f6b1c1, edu.kh.comm.board.model.vo.Board@76ac9f4d, edu.kh.comm.board.model.vo.Board@63981a41, edu.kh.comm.board.model.vo.Board@86c70fb, edu.kh.comm.board.model.vo.Board@5844b08e, edu.kh.comm.board.model.vo.Board@4a001a3c, edu.kh.comm.board.model.vo.Board@69694b2f, edu.kh.comm.board.model.vo.Board@2e90551]}
+2022-07-07 12:47:48 [INFO] RunningTime : 112ms
+2022-07-07 12:47:48 [INFO] end :BoardServiceImpl - selectBoardList
+--------------------------------------------------------------------------------
+
+2022-07-07 12:47:49 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 12:47:49 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 12:47:49 [INFO] RunningTime : 11ms
+2022-07-07 12:47:49 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 12:48:18 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardList
+매개변수 : [1, 2]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 12:48:18 [INFO] Return Value :{pagination=Pagination [currentPage=1, listCount=503, limit=10, pageSize=10, maxPage=51, startPage=1, endPage=10, prevPage=1, nextPage=11], boardList=[edu.kh.comm.board.model.vo.Board@47cbb89a, edu.kh.comm.board.model.vo.Board@5105173d, edu.kh.comm.board.model.vo.Board@557d1a02, edu.kh.comm.board.model.vo.Board@d88393b, edu.kh.comm.board.model.vo.Board@179d4f78, edu.kh.comm.board.model.vo.Board@6e581e49, edu.kh.comm.board.model.vo.Board@53c8a48a, edu.kh.comm.board.model.vo.Board@1f451e29, edu.kh.comm.board.model.vo.Board@62de7436, edu.kh.comm.board.model.vo.Board@4c5a8472]}
+2022-07-07 12:48:18 [INFO] RunningTime : 38ms
+2022-07-07 12:48:18 [INFO] end :BoardServiceImpl - selectBoardList
+--------------------------------------------------------------------------------
+
+2022-07-07 12:48:21 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 12:48:21 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 12:48:21 [INFO] RunningTime : 16ms
+2022-07-07 12:48:21 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 12:48:26 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 12:48:26 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 12:48:26 [INFO] RunningTime : 22ms
+2022-07-07 12:48:26 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 12:48:43 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 12:48:43 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 12:48:43 [INFO] RunningTime : 18ms
+2022-07-07 12:48:43 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 12:48:45 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 12:48:45 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 12:48:45 [INFO] RunningTime : 22ms
+2022-07-07 12:48:45 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 12:48:55 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 12:48:55 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 12:48:55 [INFO] RunningTime : 18ms
+2022-07-07 12:48:55 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 12:48:57 [INFO] 로그아웃 수행됨
+2022-07-07 12:48:57 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 12:48:57 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 12:48:57 [INFO] RunningTime : 15ms
+2022-07-07 12:48:57 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 12:49:06 [INFO] 로그인 기능 수행됨
+2022-07-07 12:49:06 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=user01@kh.or.kr, memberPw=pass01!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 12:49:06 [DEBUG] pass01!/$2a$10$XguIfaAJAH1CM5TqhUWr/elvv1/HsuUZ08cHapBbhmdld7DEZKW7O
+2022-07-07 12:49:06 [DEBUG] zz
+2022-07-07 12:49:06 [INFO] Return Value :Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=01012341234, memberAddress=03060,,서울 종로구 북촌로1길 9,,2층입니당, profileImage=null, enrollDate=2022-07-04 11:24:02, secessionFlag=null)
+2022-07-07 12:49:06 [INFO] RunningTime : 181ms
+2022-07-07 12:49:06 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 12:49:09 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 12:49:09 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 12:49:09 [INFO] RunningTime : 15ms
+2022-07-07 12:49:09 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 12:49:10 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 12:49:10 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 12:49:10 [INFO] RunningTime : 21ms
+2022-07-07 12:49:10 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 12:49:16 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=ddd, createDate=null, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 12:49:16 [INFO] Return Value :1
+2022-07-07 12:49:16 [INFO] RunningTime : 8ms
+2022-07-07 12:49:16 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 12:49:22 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=잘만된느데???, createDate=null, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 12:49:22 [INFO] Return Value :1
+2022-07-07 12:49:22 [INFO] RunningTime : 7ms
+2022-07-07 12:49:22 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 13:00:00 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectDBList
+매개변수 : []
+[스케줄러 동작]
+2022-07-07 13:00:00 [INFO] Return Value :[/resources/images/board/sample1.jpg, /resources/images/board/sample2.jpg, /resources/images/board/sample3.jpg, /resources/images/board/sample4.jpg, /resources/images/board/sample5.jpg, /resources/images/board/20220602144448_22251.jpg, /resources/images/board/20220602144448_33457.jpg, /resources/images/board/20220602144448_34656.jpg, /resources/images/board/20220602144448_52562.jpg, /resources/images/board/20220602144448_83061.jpg, /resources/images/board/20220602145056_18485.jpg, /resources/images/board/20220602145056_24008.jpg, /resources/images/board/20220602145056_29514.jpg, /resources/images/board/20220602145056_64912.jpg, /resources/images/board/20220602145056_42498.jpg, /resources/images/board/sample1.jpg, /resources/images/board/20220602151528_90399.jpg, /resources/images/board/20220602151528_20767.jpg, /resources/images/board/20220602151528_33543.jpg, /resources/images/board/20220607160928_01543.jpg, /resources/images/board/20220607160939_04383.jpg, /resources/images/board/sample2.jpg, /resources/images/board/sample3.jpg, /resources/images/board/sample4.jpg, /resources/images/board/sample5.jpg, /resources/images/board/20220630150652_04054.jfif, /resources/images/board/20220630150652_02519.jfif, /resources/images/board/20220630150652_11339.jfif, /resources/images/board/20220701115222_27902.jfif, /resources/images/board/20220701120141_23568.jfif]
+2022-07-07 13:00:00 [INFO] RunningTime : 30ms
+2022-07-07 13:00:00 [INFO] end :BoardServiceImpl - selectDBList
+--------------------------------------------------------------------------------
+
+2022-07-07 13:00:00 [INFO] --------서버 이미지 삭제완료--------
+2022-07-07 13:59:59 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectDBList
+매개변수 : []
+[스케줄러 동작]
+2022-07-07 14:00:00 [INFO] Return Value :[/resources/images/board/sample1.jpg, /resources/images/board/sample2.jpg, /resources/images/board/sample3.jpg, /resources/images/board/sample4.jpg, /resources/images/board/sample5.jpg, /resources/images/board/20220602144448_22251.jpg, /resources/images/board/20220602144448_33457.jpg, /resources/images/board/20220602144448_34656.jpg, /resources/images/board/20220602144448_52562.jpg, /resources/images/board/20220602144448_83061.jpg, /resources/images/board/20220602145056_18485.jpg, /resources/images/board/20220602145056_24008.jpg, /resources/images/board/20220602145056_29514.jpg, /resources/images/board/20220602145056_64912.jpg, /resources/images/board/20220602145056_42498.jpg, /resources/images/board/sample1.jpg, /resources/images/board/20220602151528_90399.jpg, /resources/images/board/20220602151528_20767.jpg, /resources/images/board/20220602151528_33543.jpg, /resources/images/board/20220607160928_01543.jpg, /resources/images/board/20220607160939_04383.jpg, /resources/images/board/sample2.jpg, /resources/images/board/sample3.jpg, /resources/images/board/sample4.jpg, /resources/images/board/sample5.jpg, /resources/images/board/20220630150652_04054.jfif, /resources/images/board/20220630150652_02519.jfif, /resources/images/board/20220630150652_11339.jfif, /resources/images/board/20220701115222_27902.jfif, /resources/images/board/20220701120141_23568.jfif]
+2022-07-07 14:00:00 [INFO] RunningTime : 24ms
+2022-07-07 14:00:00 [INFO] end :BoardServiceImpl - selectDBList
+--------------------------------------------------------------------------------
+
+2022-07-07 14:00:00 [INFO] --------서버 이미지 삭제완료--------
+2022-07-07 14:05:42 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 14:05:42 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 14:05:42 [INFO] RunningTime : 15ms
+2022-07-07 14:05:42 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 14:05:48 [INFO] 로그인 기능 수행됨
+2022-07-07 14:05:48 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=test01@naver.com, memberPw=pass001!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 14:05:48 [DEBUG] pass001!/$2a$10$HacY6QA9TqyUZ9qZ1HcrT.dpvYdGrBVivSwZ6W7KVm8A0anQ4IV5W
+2022-07-07 14:05:48 [DEBUG] 
+2022-07-07 14:05:48 [INFO] Return Value :Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=01011112222, memberAddress=63043,,제주특별자치도 제주시 애월읍 애월로 10,,1층, profileImage=/resources/images/memberProfile/20220706103224_75441.jpg, enrollDate=2022-06-22 14:41:50, secessionFlag=null)
+2022-07-07 14:05:48 [INFO] RunningTime : 177ms
+2022-07-07 14:05:48 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 14:05:51 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:05:51 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 14:05:51 [INFO] RunningTime : 33ms
+2022-07-07 14:05:51 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 14:05:54 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:05:54 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:05:54 [INFO] RunningTime : 35ms
+2022-07-07 14:05:54 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:05:55 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:05:55 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:05:55 [INFO] RunningTime : 35ms
+2022-07-07 14:05:55 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:06:08 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=안뇽, createDate=null, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 14:06:08 [INFO] Return Value :1
+2022-07-07 14:06:08 [INFO] RunningTime : 9ms
+2022-07-07 14:06:08 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:06:17 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 14:06:17 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 14:06:17 [INFO] RunningTime : 13ms
+2022-07-07 14:06:17 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 14:06:27 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 14:06:27 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 14:06:27 [INFO] RunningTime : 4ms
+2022-07-07 14:06:27 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 14:06:31 [INFO] 로그인 기능 수행됨
+2022-07-07 14:06:31 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=user01@kh.or.kr, memberPw=pass01!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 14:06:31 [DEBUG] pass01!/$2a$10$9Mw/rYCGA4N5D2rNjDJYz.8Z5INnWEX8U0s0xrvm6DLPxjW0DXnsG
+2022-07-07 14:06:31 [DEBUG] zz
+2022-07-07 14:06:31 [INFO] Return Value :Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=01012341234, memberAddress=03060,,서울 종로구 북촌로1길 9,,2층입니당, profileImage=null, enrollDate=2022-07-04 11:24:02, secessionFlag=null)
+2022-07-07 14:06:31 [INFO] RunningTime : 171ms
+2022-07-07 14:06:31 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 14:06:33 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:06:33 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 14:06:33 [INFO] RunningTime : 16ms
+2022-07-07 14:06:33 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 14:06:34 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:06:34 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:06:34 [INFO] RunningTime : 26ms
+2022-07-07 14:06:34 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:06:42 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=안뇽~~
+, createDate=null, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 14:06:42 [INFO] Return Value :1
+2022-07-07 14:06:42 [INFO] RunningTime : 8ms
+2022-07-07 14:06:42 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:06:48 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:06:48 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 14:06:48 [INFO] RunningTime : 31ms
+2022-07-07 14:06:48 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:23:13 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=d, createDate=null, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 14:23:13 [INFO] Return Value :1
+2022-07-07 14:23:13 [INFO] RunningTime : 8ms
+2022-07-07 14:23:13 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:23:15 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=d, createDate=null, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 14:23:15 [INFO] Return Value :1
+2022-07-07 14:23:15 [INFO] RunningTime : 9ms
+2022-07-07 14:23:15 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:23:16 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=d, createDate=null, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 14:23:16 [INFO] Return Value :1
+2022-07-07 14:23:16 [INFO] RunningTime : 7ms
+2022-07-07 14:23:16 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:23:17 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:23:17 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 14:23:17 [INFO] RunningTime : 19ms
+2022-07-07 14:23:17 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:28:05 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=null, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 14:28:05 [INFO] Return Value :1
+2022-07-07 14:28:05 [INFO] RunningTime : 8ms
+2022-07-07 14:28:05 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:28:11 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:28:11 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:28:11 [INFO] RunningTime : 15ms
+2022-07-07 14:28:11 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:28:32 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=오~!@, createDate=null, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 14:28:32 [INFO] Return Value :1
+2022-07-07 14:28:32 [INFO] RunningTime : 7ms
+2022-07-07 14:28:32 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:28:35 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:28:35 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 14:28:35 [INFO] RunningTime : 16ms
+2022-07-07 14:28:35 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:28:35 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:28:35 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 14:28:35 [INFO] RunningTime : 23ms
+2022-07-07 14:28:35 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:28:53 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=null, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 14:28:53 [INFO] Return Value :1
+2022-07-07 14:28:53 [INFO] RunningTime : 10ms
+2022-07-07 14:28:53 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:29:06 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=뻥~!, createDate=null, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 14:29:06 [INFO] Return Value :1
+2022-07-07 14:29:06 [INFO] RunningTime : 7ms
+2022-07-07 14:29:06 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:29:16 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=뻥
+, createDate=null, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 14:29:16 [INFO] Return Value :1
+2022-07-07 14:29:16 [INFO] RunningTime : 7ms
+2022-07-07 14:29:16 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:29:23 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=모지.., createDate=null, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 14:29:23 [INFO] Return Value :1
+2022-07-07 14:29:23 [INFO] RunningTime : 7ms
+2022-07-07 14:29:23 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:30:10 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:30:10 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 14:30:10 [INFO] RunningTime : 21ms
+2022-07-07 14:30:10 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 14:30:11 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:30:11 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 14:30:11 [INFO] RunningTime : 30ms
+2022-07-07 14:30:11 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:30:58 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=이제 잘되나?, createDate=null, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 14:30:58 [INFO] Return Value :1
+2022-07-07 14:30:58 [INFO] RunningTime : 19ms
+2022-07-07 14:30:58 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:31:05 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=잘돼?, createDate=null, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 14:31:05 [INFO] Return Value :1
+2022-07-07 14:31:05 [INFO] RunningTime : 8ms
+2022-07-07 14:31:05 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:31:10 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:31:10 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 14:31:10 [INFO] RunningTime : 27ms
+2022-07-07 14:31:10 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:32:30 [INFO] 초기화 필터 파괴
+2022-07-07 14:32:42 [INFO] 초기화 필터 생성
+2022-07-07 14:35:09 [INFO] 초기화 필터 생성
+2022-07-07 14:35:15 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 14:35:17 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@25a1b58b, edu.kh.comm.board.model.vo.BoardType@744181d8, edu.kh.comm.board.model.vo.BoardType@b1ca88d]
+2022-07-07 14:35:17 [INFO] RunningTime : 2646ms
+2022-07-07 14:35:17 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-07 14:35:18 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 14:35:18 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 14:35:18 [INFO] RunningTime : 23ms
+2022-07-07 14:35:18 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 14:35:22 [INFO] 로그인 기능 수행됨
+2022-07-07 14:35:22 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=test01@naver.com, memberPw=pass001!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 14:35:23 [DEBUG] pass001!/$2a$10$bEzNauZnbNIP5y7SEyClAeKYfkuTD/nvGwD447gmHso2vPGbaYu0u
+2022-07-07 14:35:23 [DEBUG] 
+2022-07-07 14:35:23 [INFO] Return Value :Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=01011112222, memberAddress=63043,,제주특별자치도 제주시 애월읍 애월로 10,,1층, profileImage=/resources/images/memberProfile/20220706103224_75441.jpg, enrollDate=2022-06-22 14:41:50, secessionFlag=null)
+2022-07-07 14:35:23 [INFO] RunningTime : 227ms
+2022-07-07 14:35:23 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 14:35:24 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:35:24 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 14:35:24 [INFO] RunningTime : 20ms
+2022-07-07 14:35:24 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 14:35:26 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:35:26 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 14:35:26 [INFO] RunningTime : 47ms
+2022-07-07 14:35:26 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:35:31 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 14:35:31 [INFO] Return Value :1
+2022-07-07 14:35:31 [INFO] RunningTime : 10ms
+2022-07-07 14:35:31 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:35:40 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:35:40 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 14:35:40 [INFO] RunningTime : 13ms
+2022-07-07 14:35:40 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 14:35:44 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:35:44 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 14:35:44 [INFO] RunningTime : 12ms
+2022-07-07 14:35:44 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 14:35:46 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:35:46 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:35:46 [INFO] RunningTime : 32ms
+2022-07-07 14:35:46 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:35:52 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 14:35:52 [INFO] Return Value :1
+2022-07-07 14:35:52 [INFO] RunningTime : 7ms
+2022-07-07 14:35:52 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:35:55 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:35:55 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:35:55 [INFO] RunningTime : 39ms
+2022-07-07 14:35:55 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:36:26 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 14:36:26 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 14:36:26 [INFO] RunningTime : 9ms
+2022-07-07 14:36:26 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 14:36:33 [INFO] 로그인 기능 수행됨
+2022-07-07 14:36:33 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=user01@kh.or.kr, memberPw=pass01!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 14:36:33 [DEBUG] pass01!/$2a$10$Z1kXbONxXC18yoAieKTyYeezEtcAUPof.Oqn2A4wYyfSVLJ/77tPC
+2022-07-07 14:36:33 [DEBUG] zz
+2022-07-07 14:36:33 [INFO] Return Value :Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=01012341234, memberAddress=03060,,서울 종로구 북촌로1길 9,,2층입니당, profileImage=null, enrollDate=2022-07-04 11:24:02, secessionFlag=null)
+2022-07-07 14:36:33 [INFO] RunningTime : 174ms
+2022-07-07 14:36:33 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 14:36:34 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:36:34 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 14:36:34 [INFO] RunningTime : 14ms
+2022-07-07 14:36:34 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 14:36:36 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:36:36 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:36:36 [INFO] RunningTime : 25ms
+2022-07-07 14:36:36 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:38:24 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:38:24 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:38:24 [INFO] RunningTime : 46ms
+2022-07-07 14:38:24 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:38:39 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:38:39 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:38:39 [INFO] RunningTime : 30ms
+2022-07-07 14:38:39 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:39:17 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 14:39:17 [INFO] Return Value :1
+2022-07-07 14:39:17 [INFO] RunningTime : 8ms
+2022-07-07 14:39:17 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:39:20 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:39:20 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 14:39:20 [INFO] RunningTime : 32ms
+2022-07-07 14:39:20 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:39:31 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 14:39:31 [INFO] Return Value :1
+2022-07-07 14:39:31 [INFO] RunningTime : 9ms
+2022-07-07 14:39:31 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:39:34 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:39:34 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:39:34 [INFO] RunningTime : 38ms
+2022-07-07 14:39:34 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:39:47 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=왜이렇게 나오지..?, createDate=2022-07-07, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 14:39:47 [INFO] Return Value :1
+2022-07-07 14:39:47 [INFO] RunningTime : 7ms
+2022-07-07 14:39:47 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:40:45 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=ㅜㅜ이상해.., createDate=2022-07-07, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 14:40:45 [INFO] Return Value :1
+2022-07-07 14:40:45 [INFO] RunningTime : 7ms
+2022-07-07 14:40:45 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:45:09 [INFO] 초기화 필터 파괴
+2022-07-07 14:45:15 [INFO] 초기화 필터 생성
+2022-07-07 14:47:25 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectBoardType
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 14:47:26 [INFO] Return Value :[edu.kh.comm.board.model.vo.BoardType@3ed46659, edu.kh.comm.board.model.vo.BoardType@616c02db, edu.kh.comm.board.model.vo.BoardType@48dfef39]
+2022-07-07 14:47:26 [INFO] RunningTime : 1584ms
+2022-07-07 14:47:26 [INFO] end :BoardServiceImpl - selectBoardType
+--------------------------------------------------------------------------------
+
+2022-07-07 14:47:28 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 14:47:28 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 14:47:28 [INFO] RunningTime : 13ms
+2022-07-07 14:47:28 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 14:47:32 [INFO] 로그인 기능 수행됨
+2022-07-07 14:47:32 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=test01@naver.com, memberPw=pass001!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 14:47:32 [DEBUG] pass001!/$2a$10$3HhJZ46DdqzjlVLcutTCpOEDG2Q3/4smjflgZ0wNeH4n0acQ.vaCi
+2022-07-07 14:47:32 [DEBUG] 
+2022-07-07 14:47:32 [INFO] Return Value :Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=01011112222, memberAddress=63043,,제주특별자치도 제주시 애월읍 애월로 10,,1층, profileImage=/resources/images/memberProfile/20220706103224_75441.jpg, enrollDate=2022-06-22 14:41:50, secessionFlag=null)
+2022-07-07 14:47:32 [INFO] RunningTime : 298ms
+2022-07-07 14:47:32 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 14:47:33 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:47:33 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 14:47:33 [INFO] RunningTime : 11ms
+2022-07-07 14:47:33 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 14:47:34 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:47:34 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=왜이렇게 나오지..?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅜㅜ이상해.., createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:47:34 [INFO] RunningTime : 42ms
+2022-07-07 14:47:34 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:47:41 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=노랑색, createDate=2022-07-07, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 14:47:41 [INFO] Return Value :1
+2022-07-07 14:47:41 [INFO] RunningTime : 10ms
+2022-07-07 14:47:41 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:47:45 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:47:45 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=왜이렇게 나오지..?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅜㅜ이상해.., createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=노랑색, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:47:45 [INFO] RunningTime : 40ms
+2022-07-07 14:47:45 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:47:51 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 14:47:51 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 14:47:51 [INFO] RunningTime : 10ms
+2022-07-07 14:47:51 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 14:47:56 [INFO] 로그인 기능 수행됨
+2022-07-07 14:47:56 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=user01@kh.or.kr, memberPw=pass001!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 14:47:56 [DEBUG] pass001!/$2a$10$Mto/VKfo.L.ASdsBMkwDeusY5OaP6ABcftIkuDZkZKSh9cR1o1Em.
+2022-07-07 14:47:56 [DEBUG] zz
+2022-07-07 14:47:56 [INFO] Return Value :null
+2022-07-07 14:47:56 [INFO] RunningTime : 174ms
+2022-07-07 14:47:56 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 14:47:57 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - selectAll
+매개변수 : []
+ip :127.0.0.1
+2022-07-07 14:47:57 [INFO] Return Value :[Member(memberNo=1, memberEmail=test01@naver.com, memberPw=null, memberNickname=진팍2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=2, memberEmail=test02@naver.com, memberPw=null, memberNickname=테스트2, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null), Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+2022-07-07 14:47:57 [INFO] RunningTime : 12ms
+2022-07-07 14:47:57 [INFO] end :MemberServiceImpl - selectAll
+--------------------------------------------------------------------------------
+
+2022-07-07 14:48:02 [INFO] 로그인 기능 수행됨
+2022-07-07 14:48:02 [INFO] --------------------------------------------------------------------------------
+Start : MemberServiceImpl - login
+매개변수 : [Member(memberNo=0, memberEmail=user01@kh.or.kr, memberPw=pass01!, memberNickname=null, memberTel=null, memberAddress=null, profileImage=null, enrollDate=null, secessionFlag=null)]
+ip :127.0.0.1
+2022-07-07 14:48:03 [DEBUG] pass01!/$2a$10$JmD7s8188HsNf7wD3WDCK.4mnqJJ5gqC0mjUISBdEN1EqH2CbFc.q
+2022-07-07 14:48:03 [DEBUG] zz
+2022-07-07 14:48:03 [INFO] Return Value :Member(memberNo=3, memberEmail=user01@kh.or.kr, memberPw=null, memberNickname=오류, memberTel=01012341234, memberAddress=03060,,서울 종로구 북촌로1길 9,,2층입니당, profileImage=null, enrollDate=2022-07-04 11:24:02, secessionFlag=null)
+2022-07-07 14:48:03 [INFO] RunningTime : 175ms
+2022-07-07 14:48:03 [INFO] end :MemberServiceImpl - login
+--------------------------------------------------------------------------------
+
+2022-07-07 14:48:04 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - selectChatRoomList
+매개변수 : []
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:48:04 [INFO] Return Value :[ChatRoom(chatRoomNo=1, title=하나, status=null, memberNo=0, memberNickname=진팍2, cnt=2)]
+2022-07-07 14:48:04 [INFO] RunningTime : 10ms
+2022-07-07 14:48:04 [INFO] end :ChatServiceImpl - selectChatRoomList
+--------------------------------------------------------------------------------
+
+2022-07-07 14:48:06 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:48:06 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=왜이렇게 나오지..?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅜㅜ이상해.., createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=노랑색, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 14:48:06 [INFO] RunningTime : 28ms
+2022-07-07 14:48:06 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:48:23 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 14:48:23 [INFO] Return Value :1
+2022-07-07 14:48:23 [INFO] RunningTime : 7ms
+2022-07-07 14:48:23 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:48:33 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=1, memberNo=3, memberEmail=user01@kh.or.kr, memberNickname=오류)]
+[스케줄러 동작]
+2022-07-07 14:48:33 [INFO] Return Value :1
+2022-07-07 14:48:33 [INFO] RunningTime : 10ms
+2022-07-07 14:48:33 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 14:49:51 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 14:49:51 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=왜이렇게 나오지..?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅜㅜ이상해.., createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=노랑색, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 14:49:51 [INFO] RunningTime : 31ms
+2022-07-07 14:49:51 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 14:51:03 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 14:51:03 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=왜이렇게 나오지..?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅜㅜ이상해.., createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=노랑색, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류)]
+2022-07-07 14:51:03 [INFO] RunningTime : 22ms
+2022-07-07 14:51:03 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 15:00:00 [INFO] --------------------------------------------------------------------------------
+Start : BoardServiceImpl - selectDBList
+매개변수 : []
+[스케줄러 동작]
+2022-07-07 15:00:00 [INFO] Return Value :[/resources/images/board/sample1.jpg, /resources/images/board/sample2.jpg, /resources/images/board/sample3.jpg, /resources/images/board/sample4.jpg, /resources/images/board/sample5.jpg, /resources/images/board/20220602144448_22251.jpg, /resources/images/board/20220602144448_33457.jpg, /resources/images/board/20220602144448_34656.jpg, /resources/images/board/20220602144448_52562.jpg, /resources/images/board/20220602144448_83061.jpg, /resources/images/board/20220602145056_18485.jpg, /resources/images/board/20220602145056_24008.jpg, /resources/images/board/20220602145056_29514.jpg, /resources/images/board/20220602145056_64912.jpg, /resources/images/board/20220602145056_42498.jpg, /resources/images/board/sample1.jpg, /resources/images/board/20220602151528_90399.jpg, /resources/images/board/20220602151528_20767.jpg, /resources/images/board/20220602151528_33543.jpg, /resources/images/board/20220607160928_01543.jpg, /resources/images/board/20220607160939_04383.jpg, /resources/images/board/sample2.jpg, /resources/images/board/sample3.jpg, /resources/images/board/sample4.jpg, /resources/images/board/sample5.jpg, /resources/images/board/20220630150652_04054.jfif, /resources/images/board/20220630150652_02519.jfif, /resources/images/board/20220630150652_11339.jfif, /resources/images/board/20220701115222_27902.jfif, /resources/images/board/20220701120141_23568.jfif]
+2022-07-07 15:00:00 [INFO] RunningTime : 26ms
+2022-07-07 15:00:00 [INFO] end :BoardServiceImpl - selectDBList
+--------------------------------------------------------------------------------
+
+2022-07-07 15:00:00 [INFO] --------서버 이미지 삭제완료--------
+2022-07-07 15:00:47 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 15:00:47 [INFO] Return Value :1
+2022-07-07 15:00:47 [INFO] RunningTime : 8ms
+2022-07-07 15:00:47 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 15:00:53 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 15:00:53 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=왜이렇게 나오지..?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅜㅜ이상해.., createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=노랑색, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 15:00:53 [INFO] RunningTime : 21ms
+2022-07-07 15:00:53 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 15:01:10 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 15:01:10 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=왜이렇게 나오지..?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅜㅜ이상해.., createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=노랑색, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 15:01:10 [INFO] RunningTime : 30ms
+2022-07-07 15:01:10 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 15:01:12 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 15:01:12 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=왜이렇게 나오지..?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅜㅜ이상해.., createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=노랑색, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 15:01:12 [INFO] RunningTime : 41ms
+2022-07-07 15:01:12 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 15:01:14 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=ㅅㄷㄴㅅ, createDate=2022-07-07, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 15:01:14 [INFO] Return Value :1
+2022-07-07 15:01:14 [INFO] RunningTime : 7ms
+2022-07-07 15:01:14 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 15:01:33 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=1, chatRoomNo=1)]
+ip :127.0.0.1(email :test01@naver.com)
+2022-07-07 15:01:33 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=왜이렇게 나오지..?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅜㅜ이상해.., createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=노랑색, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅅㄷㄴㅅ, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 15:01:33 [INFO] RunningTime : 20ms
+2022-07-07 15:01:33 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
+2022-07-07 15:01:36 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - insertMessage
+매개변수 : [ChatMessage(cmNo=0, message=ㅁㅁㅁ, createDate=2022-07-07, chatRoomNo=1, memberNo=1, memberEmail=test01@naver.com, memberNickname=진팍2)]
+[스케줄러 동작]
+2022-07-07 15:01:36 [INFO] Return Value :1
+2022-07-07 15:01:36 [INFO] RunningTime : 8ms
+2022-07-07 15:01:36 [INFO] end :ChatServiceImpl - insertMessage
+--------------------------------------------------------------------------------
+
+2022-07-07 15:04:22 [INFO] --------------------------------------------------------------------------------
+Start : ChatServiceImpl - joinChatRoom
+매개변수 : [ChatRoomJoin(memberNo=3, chatRoomNo=1)]
+ip :127.0.0.1(email :user01@kh.or.kr)
+2022-07-07 15:04:22 [INFO] Return Value :[ChatMessage(cmNo=0, message=안될까요왜, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=ddd, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=잘만된느데???, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=안뇽~~<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=d, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=나는 되려낭`?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=오~!@, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=배가 너무 불러서 배가 터질꺼같으다, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=뻥~!, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=뻥<br>, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=모지.., createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=이제 잘되나?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=잘돼?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=test, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=이제 나오나?, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=너는 나오니?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=왜이렇게 나오지..?, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅜㅜ이상해.., createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=노랑색, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=3, memberEmail=null, memberNickname=오류), ChatMessage(cmNo=0, message=얍, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅅㄷㄴㅅ, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2), ChatMessage(cmNo=0, message=ㅁㅁㅁ, createDate=2022-07-07, chatRoomNo=0, memberNo=1, memberEmail=null, memberNickname=진팍2)]
+2022-07-07 15:04:22 [INFO] RunningTime : 59ms
+2022-07-07 15:04:22 [INFO] end :ChatServiceImpl - joinChatRoom
+--------------------------------------------------------------------------------
+
